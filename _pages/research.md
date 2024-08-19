@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-* "The Privacy-preserving Data-driven Inventory Management." with Karan Girotra and ElenaBelavina. In preparation for submission.
+* "The Privacy-preserving Data-driven Inventory Management." with Karan Girotra and ElenaBelavina. *In preparation for submission*.
    * <details>
      <summary>Abstract</summary>
      
@@ -20,6 +20,6 @@ author_profile: true
   
      </details>
 
-* "Strategic Private Information Acquisition for News Vendor." with Karan Girotra and Elena Belavina. Work in progress.
+* "Strategic Private Information Acquisition for News Vendor." with Karan Girotra and Elena Belavina. *Work in progress*.
 
-* "Generative AI Copilot in a Production Network." with Karan Girotra and Elena Belavina. Work in progress.
+* "Generative AI Copilot in a Production Network." with Karan Girotra and Elena Belavina. *Work in progress*.
