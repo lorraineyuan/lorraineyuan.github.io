@@ -13,4 +13,4 @@ My research interests center on **responsible AI adoption, with a particular emp
 
 My research methodology combines data-driven optimization, machine learning techniques, network theory, and differential privacy algorithms.
 
-You can find my CV here: [Lorraine Yuan's Curriculum Vitae](.../files/Lorraine_Yuan_CV.pdf)
+You can find my CV here: [Lorraine Yuan's Curriculum Vitae](../files/Lorraine_Yuan_CV.pdf).
