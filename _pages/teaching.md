@@ -13,14 +13,14 @@ SC Johnson College of Business, Cornell Tech
    * Host weekly review sessions and Q&A with Prof. Elena Belavina
      
 ### Teaching Assistant
-* **Summer 2024** NBAY 6550 Business Data Analysis with SQL
+* NBAY 6550 Business Data Analysis with SQL <div style="text-align: right">Summer 2024</div>
     
-* **Spring 2024** eCornell Certificate Program: Generative AI for Business Transformation
+* eCornell Certificate Program: Generative AI for Business Transformation <div style="text-align: right">Spring 2024 </div>
 
-* **Spring 2023, Spring 2021** NCCE 5080 Managing Operations
+* NCCE 5080 Managing Operations <div style="text-align: right">Spring 2023, 2021</div>
 
-* **Fall 2023, Fall 2022** NCCY 5080 Managing Operations
+* NCCY 5080 Managing Operations <div style="text-align: right">Fall 2023, 2022</div>
 
-* **Spring 2023** HADM 7030 Operations Management (Cornell-Peking MBA)
+* HADM 7030 Operations Management (Cornell-Peking MBA) <div style="text-align: right">Spring 2023</div>
 
-* **Fall 2021** NBAE 6830/5750 Innovation & New Venture Creation/The Customer Experience
+* NBAE 6830/5750 Innovation & New Venture Creation/The Customer Experience <div style="text-align: right">Fall 2023</div>
