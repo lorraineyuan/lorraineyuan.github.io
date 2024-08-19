@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-## Selected Invited Talks
+## Selected Talks
 * "The Privacy-Preserving Data-driven Inventory Management."
   * 2024 MSOM Annual Conference, Minneapolis, MN
   * 2023 INFORMS Annual Conference, Phoenix, AZ
