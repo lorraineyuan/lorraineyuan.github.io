@@ -12,9 +12,9 @@ title                    : "Lorraine Yuan"
 title_separator          : "-"
 name                     : &name "Lorraine Yuan"
 description              : &description "personal description"
-url                      : "https://lorrianeyuan.github.io"
-baseurl                  : "https://lorrianeyuan.github.io"
-repository               : "lorraineyuan/lorrianeyuan.github.io"
+url                      : "https://lorraineyuan.github.io"
+baseurl                  : "https://lorraineyuan.github.io"
+repository               : "lorraineyuan/lorraineyuan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
