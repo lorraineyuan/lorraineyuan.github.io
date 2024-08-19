@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Lorraine Yuan"
 description              : &description "personal description"
 url                      : "https://lorrianeyuan.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://lorrianeyuan.github.io"
 repository               : "lorraineyuan/lorrianeyuan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
