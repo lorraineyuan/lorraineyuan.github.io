@@ -12,7 +12,7 @@ title                    : "Lorraine Yuan"
 title_separator          : "-"
 name                     : &name "Lorraine Yuan"
 description              : &description "personal description"
-url                      : "https://lorrianeyuan.com"
+url                      : "https://lorrianeyuan.me"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorraineyuan/lorrianeyuan.github.io"
 
