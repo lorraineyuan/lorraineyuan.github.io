@@ -12,8 +12,8 @@ title                    : "Lorraine Yuan"
 title_separator          : "-"
 name                     : &name "Lorraine Yuan"
 description              : &description "personal description"
-url                      : "https://lorraineyuan.github.io"
-baseurl                  : "https://lorraineyuan.github.io"
+url                      : "lorraineyuan.github.io"
+baseurl                  : #
 repository               : "lorraineyuan/lorraineyuan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
