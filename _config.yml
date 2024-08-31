@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lorraine Yuan"
 description              : &description "personal description"
-url                      : "https://lorraineyuan.github.io"
+url                      : "https://lorraineyuan.com"
 baseurl                  : #
 repository               : "lorraineyuan/lorraineyuan.github.io"
 
