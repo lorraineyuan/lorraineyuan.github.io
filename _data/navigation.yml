@@ -14,5 +14,5 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Curriculum Vitae"
-    url: /files/Lorraine_Yuan_CV.pdf
+  # - title: "Curriculum Vitae"
+  #   url: /files/Lorraine_Yuan_CV.pdf
