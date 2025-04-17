@@ -12,5 +12,3 @@ I am Lorraine Yuan, a fifth-year PhD candidate in the [Operations, Technology, a
 My research interests center on **responsible AI adoption, with a particular emphasis on the interplay between data privacy and technology adoption in supply chain networks**. I am passionate about exploring how AI-based technologies can transform the life cycle of data-driven decision-making—from data collection and privacy protection to the large-scale adoption of these technologies. I develop advanced privatization techniques and explore their applications in inventory management to enhance profitability and customer service while maintaining robust privacy protections. Additionally, I integrate advanced data-driven analytics to assess the impact of emerging technologies like Generative AI within production networks. 
 
 My research methodology combines data-driven optimization, machine learning techniques, network theory, and differential privacy algorithms.
-
-You can find my CV here: [Lorraine Yuan's Curriculum Vitae](../files/Lorraine_Yuan_CV.pdf).
