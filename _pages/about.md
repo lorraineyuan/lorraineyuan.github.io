@@ -14,3 +14,8 @@ My research interests center on **responsible AI adoption**, with a particular e
 I develop privacy-preserving data-driven algorithms and explore their impact for adoption at scale in inventory management to enhance profitability maintaining customer privacy. More recently, my work applies computational and statistical methods to design Human-AI copilot strategies for emerging technologies—such as generative AI—within production networks. 
 
 My research methodology combines data-driven optimization, economics and statistical modelling, and computer science algorithms.
+
+
+### News
+
+I will be xxx
