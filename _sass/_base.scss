@@ -10,7 +10,6 @@ html {
 body {
   margin: 0;
   padding: $masthead-height 0 0;
-  max-width: 1200px;
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
@@ -60,6 +59,7 @@ small, .small {
 
 p {
   margin-bottom: 1.3em;
+  max-width: 1200px;
 }
 
 u,
