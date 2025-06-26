@@ -18,4 +18,4 @@ My research methodology combines data-driven optimization, economics and statist
 
 # News
 
-I’ll be presenting at the **2025 MSOM Conference in London on June 29 (Session SUD6)**. Looking forward to reconnecting with familiar faces and meeting new ones!
+I’ll be presenting at the 2025 MSOM Conference in London on June 29 (Session SUD6). Looking forward to reconnecting with familiar faces and meeting new ones!
