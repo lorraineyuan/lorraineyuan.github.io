@@ -11,11 +11,15 @@ I am Lorraine Yuan, a fifth-year PhD candidate in the [Operations, Technology, a
 
 My research interests center on **responsible AI adoption**, with a particular emphasis on **privacy in data-driven decision making** and the broader impact of **AI adoption at scale**. 
 
-I develop privacy-preserving data-driven algorithms and explore their impact for adoption at scale in inventory management to enhance profitability maintaining customer privacy. More recently, my work applies computational and statistical methods to design Human-AI copilot strategies for emerging technologies—such as generative AI—within production networks. 
+I develop privacy-preserving data-driven algorithms and explore their impact for adoption at scale in inventory management to enhance profitability maintaining customer privacy. More recently, my work applies computational and statistical methods to design Human-AI copilot strategies for agentic AI within production networks. 
 
 My research methodology combines data-driven optimization, economics and statistical modelling, and computer science algorithms.
 
+**I will be on the 2025-2026 Job Market**.
 
-# News
+### Research Interests
 
-I’ll be presenting at the 2025 MSOM Conference in London on June 29 (Session SUD6). Looking forward to reconnecting with familiar faces and meeting new ones!
+  - Data-driven Optimization
+  - Human-AI Collaboration
+  - Differential Privacy
+  - Mechanism Design
