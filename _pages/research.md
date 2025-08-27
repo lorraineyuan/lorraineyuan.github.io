@@ -12,7 +12,9 @@ author_profile: true
 {% include base_path %}
 
 
-* "The Privacy-preserving Data-driven Inventory Management." with Karan Girotra and Elena Belavina. **Major Revision at *Management Science*** [[Document](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219878)]
+* "Privacy-preserving Data-driven Inventory Management." with Elena Belavina. **Major Revision at *Management Science***. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219878)]
+   * Job Market Paper
+   * Accepted to NYC Privacy Day at Google
    * <details>
      <summary>Abstract</summary>
      
@@ -20,6 +22,11 @@ author_profile: true
   
      </details>
 
-* "Strategic Private Information Acquisition for News Vendor." with Karan Girotra and Elena Belavina. *Work in progress*.
 
-* "Generative AI Copilot in a Production Network." with Karan Girotra and Elena Belavina. *Work in progress*.
+* “Mechanism Design for Generative AI Copilot in a Sequential Production Process.” with Karan Girotra and Elena Belavina. *Working Paper*.
+
+
+* "Data-driven Decisions in Supply Chains: Contracts, Algorithms, and Efficiency." with Xiaoyue Yan, Karan Girotra and Elena Belavina. *Working Paper*.
+
+
+* "Privacy-preserving Collaborative Learning." with Karan Girotra and Elena Belavina. *Work In Progress*.

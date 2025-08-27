@@ -17,9 +17,7 @@ My research methodology combines data-driven optimization, economics and statist
 
 **I will be on the 2025-2026 Job Market**.
 
-### Research Interests
+## Research Interests
 
-  - Data-driven Optimization
-  - Human-AI Collaboration
-  - Differential Privacy
-  - Mechanism Design
+**Topics**: Data Privacy, Generative AI Adoption, Inventory Management, Mechanism Design
+**Methodologies**: Data-driven Optimization, Economics and Statistical Modelling, Differential Privacy
