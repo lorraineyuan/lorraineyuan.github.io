@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 ## Co-instructor
-* Managing Operations (MBA Core, weekly review sessions)                  <p align="right">***Spring 2023***</p>
+* Managing Operations (MBA Core, weekly review sessions)                  <p style='text-align: justify;'> Your Text </p>
    * Rating: 4.85/5 (Number of respondents: 26)
+ 
      
 ## Teaching Assistant
 * Business Data Analysis with SQL (MBA Elective)                                ***Summer 2024***
