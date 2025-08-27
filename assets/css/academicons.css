@@ -569,10 +569,3 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
-
-/* Constrain the main content area */
-main, .container, .wrapper {
-  max-width: 1200px;
-  margin: 0 auto; /* centers it horizontally */
-  padding: 0 20px; /* optional, gives some breathing space */
-}
