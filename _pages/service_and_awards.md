@@ -113,7 +113,7 @@ author_profile: true
       <li>
         <div class="twocol">
           <span class="left">Digital Life Initiative Doctoral Fellowship, Cornell University</span>
-          <span class="right"><strong><em>2021</em></strong></span>
+          <span class="right"><strong><em>2024</em></strong></span>
         </div>
       </li>
     </ul>
@@ -158,5 +158,5 @@ author_profile: true
       </li>
     </ul>
   </div>
-  
+
 </div>
