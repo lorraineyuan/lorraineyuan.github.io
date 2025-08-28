@@ -19,10 +19,9 @@ author_profile: true
   }
 
   /* Subsection headings */
-  .teaching-page h1,
   .teaching-page h2{
     margin: 1.25rem 0 .5rem;
-    line-height: 1.25;
+    line-height: 2;
   }
 
   /* Two-column rows: left wraps, right hugs */
@@ -51,8 +50,6 @@ author_profile: true
 
 <div class="teaching-page">
 
-<h1>Teaching</h1>
-
 <h2>Co-instructor</h2>
 
 <div class="block">
@@ -62,6 +59,12 @@ author_profile: true
   </div>
   <div>Rating: 4.85/5 (Number of respondents: 26)</div>
 </div>
+
+<ol class="sublist">
+  <li>Rating: 4.85/5 (Number of respondents: 26)</li>
+  <li>Additional note about course prep</li>
+</ol>
+
 
 <h2>Teaching Assistant</h2>
 
