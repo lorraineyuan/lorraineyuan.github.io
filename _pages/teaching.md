@@ -53,88 +53,73 @@ author_profile: true
 <h2>Co-instructor</h2>
 
 <div class="block">
-Managing Operations (MBA Core, weekly review sessions)
   <ul class="sublist">
-    <li>
-      <div class="twocol">
-        <span class="left"><strong><em>Rating: 4.85/5 (Number of respondents: 26)</em></strong></span>
-        <span class="right">Spring 2023</span>
-      </div>
-    </li>
-    <li>
-      <div class="twocol">
-        <span class="left"><strong><em>Rating: 4.95/5 (Number of respondents: 20)</em></strong></span>
-        <span class="right">Fall 2022</span>
-      </div>
-    </li>
+    Managing Operations (MBA Core, weekly review sessions)
+      <ul class="sublist">
+        <li>
+          <div class="twocol">
+            <span class="left">Rating: 4.85/5 (Number of respondents: 26)</span>
+            <span class="right"><strong><em>Spring 2023</em></strong></span>
+          </div>
+        </li>
+        <li>
+          <div class="twocol">
+            <span class="left">Rating: 4.95/5 (Number of respondents: 20)</span>
+            <span class="right"><strong><em>Fall 2022</em></strong></span>
+          </div>
+        </li>
+      </ul>
   </ul>
 </div>
-
-Managing Operations (MBA Core, weekly review sessions)
-
-<ul class="sublist">
-  <li></li>
-  <li>Additional note about course prep</li>
-</ul>
-
-<div class="block">
-  <div class="twocol">
-    <span class="left"><strong><em>Managing Operations (MBA Core, weekly review sessions)</em></strong></span>
-    <span class="right">Spring 2023</span>
-  </div>
-  <div>Rating: 4.85/5 (Number of respondents: 26)</div>
-</div>
-
-<ol class="sublist">
-  <li>Rating: 4.85/5 (Number of respondents: 26)</li>
-  <li>Additional note about course prep</li>
-</ol>
 
 
 <h2>Teaching Assistant</h2>
 
 <div class="block">
-  <div class="twocol">
-    <span class="left">Business Data Analysis with SQL (MBA Elective)</span>
-    <span class="right">Summer 2024</span>
-  </div>
+  <ul class="sublist">
+    <li>
+      <div class="twocol">
+        <span class="left">Business Data Analysis with SQL (MBA Elective)</span>
+        <span class="right"><strong><em>Summer 2024</em></strong></span>
+      </div>
+    </li>
+    <li>
+      <div class="twocol">
+        <span class="left">Generative AI for Business Transformation (eCornell Certificate Program)</span>
+        <span class="right"><strong><em>Spring 2024</em></strong></span>
+      </div>
+    </li>
+    <li>
+      <div class="twocol">
+        <span class="left">Managing Operations (EMBA)</span>
+        <span class="right"><strong><em>Fall 2023, Spring 2021</em></strong></span>
+      </div>
+    </li>
+    <li>
+      <div class="twocol">
+        <span class="left">Operations Management (Cornell–Peking MBA)</span>
+        <span class="right"><strong><em>Spring 2023</em></strong></span>
+      </div>
+    </li>
+    <li>
+      <div class="twocol">
+        <span class="left">Innovation &amp; New Venture Creation / The Customer Experience (MBA Elective)</span>
+        <span class="right"><strong><em>Fall 2021</em></strong></span>
+      </div>
+    </li>
+  </ul>
 </div>
 
-<div class="block">
-  <div class="twocol">
-    <span class="left">Generative AI for Business Transformation (eCornell Certificate Program)</span>
-    <span class="right">Spring 2024</span>
-  </div>
-</div>
-
-<div class="block">
-  <div class="twocol">
-    <span class="left">Managing Operations (EMBA)</span>
-    <span class="right">Fall 2023, Spring 2021</span>
-  </div>
-</div>
-
-<div class="block">
-  <div class="twocol">
-    <span class="left">Operations Management (Cornell–Peking MBA)</span>
-    <span class="right">Spring 2023</span>
-  </div>
-</div>
-
-<div class="block">
-  <div class="twocol">
-    <span class="left">Innovation &amp; New Venture Creation / The Customer Experience (MBA Elective)</span>
-    <span class="right">Fall 2021</span>
-  </div>
-</div>
 
 <h2>Directed Reading Mentor</h2>
 
 <div class="block">
-  <div class="twocol">
-    <span class="left">Cornell Tech MBA ’23</span>
-    <span class="right">Spring 2023</span>
-  </div>
+  <ul class="sublist">
+    <div class="twocol">
+      <span class="left">Cornell Tech MBA ’23</span>
+      <span class="right">Spring 2023</span>
+    </div>
+  </ul>
 </div>
 
 </div>
