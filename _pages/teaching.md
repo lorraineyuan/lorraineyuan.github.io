@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .twocol {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: baseline;
+  }
+  .twocol .right {
+    white-space: nowrap;
+    text-align: right;
+  }
+</style>
+
 
 ## Co-instructor
 
@@ -15,10 +27,21 @@ author_profile: true
        <span style="float:left;">Rating: 4.85/5 (Number of respondents: 26)</span>
        <span style="float:right;"><strong><em>Spring 2023</em></strong></span>
      </p>
+
    * <p>
        <span style="float:left;">Rating: 4.95/5 (Number of respondents: 20)</span>
        <span style="float:right;"><strong><em>Fall 2022</em></strong></span>
      </p>
+
+   * <div class="twocol">
+       <span><strong><em>Rating: 4.85/5 (Number of respondents: 26)</em></strong></span>
+       <span class="right">Spring 2023</span>
+     </div>
+     
+   * <div class="twocol">
+       <span><strong><em>Rating: 4.95/5 (Number of respondents: 20)</em></strong></span>
+       <span class="right">Fall 2022</span>
+     </div>
 
 
 ## Teaching Assistant
