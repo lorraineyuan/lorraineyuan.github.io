@@ -12,6 +12,11 @@ author_profile: true
 * Managing Operations (MBA Core, weekly review sessions)
    * Rating: 4.85/5 (Number of respondents: 26)    <strong><em><text>&nbsp;&nbsp;Spring 2023&nbsp;&nbsp;</text></em></strong>
    * Rating: 4.95/5 (Number of respondents: 20)    ***Fall 2022***
+   * <p>
+       <span style="float:left;">Managing Operations</span>
+       <span style="float:right;"><strong><em>Spring 2023</em></strong></span>
+     </p>
+
 
      
 ## Teaching Assistant
