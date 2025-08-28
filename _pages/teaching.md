@@ -10,7 +10,7 @@ author_profile: true
 <style>
   /* Page-level settings */
   .teaching-page{
-    line-height: 2;          /* 2× spacing */
+    line-height: 2.5;          /* 2× spacing */
     max-width: 1000px;       /* keep content to 1000px */
     margin: 0;               /* keep content flush-left (not centered) */
     padding-right: 2rem;     /* tiny breathing room on very small screens */
