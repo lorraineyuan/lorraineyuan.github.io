@@ -18,6 +18,9 @@ author_profile: true
     grid-template-columns: 1fr auto;
     align-items: baseline;
   }
+  .twocol .left{ 
+    min-width: 0; 
+  }
   .twocol .right {
     white-space: nowrap;
     text-align: right;
