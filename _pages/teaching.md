@@ -9,7 +9,7 @@ author_profile: true
 
 <style>
   .teaching-page {
-    line-height: 1.5;       /* 1.5× spacing */
+    line-height: 3;       /* 1.5× spacing */
     max-width: 1200px;       /* change number as you like */
     margin: 0 auto;         /* center it on the page */
   }
