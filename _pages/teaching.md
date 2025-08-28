@@ -24,6 +24,8 @@ author_profile: true
   }
 </style>
 
+<div class="teaching-page">
+
 
 ## Co-instructor
 
@@ -73,3 +75,5 @@ author_profile: true
     <span>Cornell Tech MBA 23’</span>
     <span class="right"><strong><em>Spring 2023</em></strong></span>
   </div>
+
+</div>

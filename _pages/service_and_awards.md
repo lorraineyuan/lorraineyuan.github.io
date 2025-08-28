@@ -24,6 +24,8 @@ author_profile: true
   }
 </style>
 
+<div class="service_and_awards-page">
+
 
 ## Professional Service
 
@@ -73,8 +75,10 @@ author_profile: true
     <span>Lester B. Knight Scholarship ($40000), Cornell University</span>
     <span class="right"><strong><em>2019</em></strong></span>
   </div>
-  
+
 * <div class="twocol">
     <span>First Class Study Scholarship, Renmin University of China</span>
     <span class="right"><strong><em>2018</em></strong></span>
   </div>
+
+</div>
