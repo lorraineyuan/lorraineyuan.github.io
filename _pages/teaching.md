@@ -33,11 +33,13 @@ author_profile: true
        <span style="float:right;"><strong><em>Fall 2022</em></strong></span>
      </p>
 
+
+* Managing Operations (MBA Core, weekly review sessions)
    * <div class="twocol">
        <span><strong><em>Rating: 4.85/5 (Number of respondents: 26)</em></strong></span>
        <span class="right">Spring 2023</span>
      </div>
-     
+
    * <div class="twocol">
        <span><strong><em>Rating: 4.95/5 (Number of respondents: 20)</em></strong></span>
        <span class="right">Fall 2022</span>
