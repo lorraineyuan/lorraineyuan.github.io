@@ -7,6 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .service_and_awards-page {
+    line-height: 1.5;       /* 1.5× spacing */
+    max-width: 800px;       /* change number as you like */
+    margin: 0 auto;         /* center it on the page */
+  }
+  .twocol {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: baseline;
+  }
+  .twocol .right {
+    white-space: nowrap;
+    text-align: right;
+  }
+</style>
+
 
 ## Professional Service
 
