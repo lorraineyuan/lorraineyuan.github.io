@@ -10,10 +10,8 @@ author_profile: true
 ## Co-instructor
 
 * Managing Operations (MBA Core, weekly review sessions)
-   * Rating: 4.85/5 (Number of respondents: 26)
-      <p style='text-align: justify;'> Your Text </p>
-   * Rating: 4.95/5 (Number of respondents: 20)
-      <p style='text-align: justify;'> Your Text </p>
+   * Rating: 4.85/5 (Number of respondents: 26)    ***Spring 2023***
+   * Rating: 4.95/5 (Number of respondents: 20)    ***Fall 2022***
  
      
 ## Teaching Assistant
