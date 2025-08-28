@@ -53,6 +53,31 @@ author_profile: true
 <h2>Co-instructor</h2>
 
 <div class="block">
+Managing Operations (MBA Core, weekly review sessions)
+  <ul class="sublist">
+    <li>
+      <div class="twocol">
+        <span class="left"><strong><em>Rating: 4.85/5 (Number of respondents: 26)</em></strong></span>
+        <span class="right">Spring 2023</span>
+      </div>
+    </li>
+    <li>
+      <div class="twocol">
+        <span class="left"><strong><em>Rating: 4.95/5 (Number of respondents: 20)</em></strong></span>
+        <span class="right">Fall 2022</span>
+      </div>
+    </li>
+  </ul>
+</div>
+
+Managing Operations (MBA Core, weekly review sessions)
+
+<ul class="sublist">
+  <li></li>
+  <li>Additional note about course prep</li>
+</ul>
+
+<div class="block">
   <div class="twocol">
     <span class="left"><strong><em>Managing Operations (MBA Core, weekly review sessions)</em></strong></span>
     <span class="right">Spring 2023</span>
