@@ -14,8 +14,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  # - title: "Industry Experience"
-  #   url: /industry_experience/
+  - title: "Service & Awards"
+    url: /service_and_awards/
     
-  # - title: "Curriculum Vitae"
-  #   url: /files/Lorraine_Yuan_CV.pdf
+  - title: "Curriculum Vitae"
+    url: https://drive.google.com/file/d/1S8dvQgZZpCzePSpl0dXdSP8ks743VuQ5/view?usp=sharing
