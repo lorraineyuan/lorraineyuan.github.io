@@ -15,22 +15,11 @@ author_profile: true
 * Session Co-chair, 2022 INFORMS Annual Conference ***2022***
 
 
-* Managing Operations (MBA Core, weekly review sessions)
-   * Rating: 4.85/5 (Number of respondents: 26)    ***Spring 2023***
-   * Rating: 4.95/5 (Number of respondents: 20)    ***Fall 2022***
- 
-     
-## Teaching Assistant
+## Honors & Awards
 
-* Business Data Analysis with SQL (MBA Elective)                                ***Summer 2024***
-    
-* Generative AI for Business Transformation (eCornell Certificate Program)  ***Spring 2024***
-
-* Managing Operations (EMBA)                                      ***Fall 2023, Spring 2021***
-
-* Operations Management (Cornell-Peking MBA)                                        ***Spring 2023***
-
-* Innovation & New Venture Creation/The Customer Experience (MBA Elective)                     ***Fall 2021***
-
-## Directed Reading Mentor
-* Cornell Tech MBA 23’                                                              ***Spring 2023***
+* Byron E. Grote Johnson Professional Scholarship, Cornell University ***2024, 2021***
+* Digital Life Initiative Doctoral Fellowship, Cornell University ***2021***
+* Cornell University Doctoral Fellowship ***2020 - 2026***
+* Noel Croucher Graduate Fellowship ($20000), Cornell University ***2019***
+* Lester B. Knight Scholarship ($40000), Cornell University ***2019***
+* First Class Study Scholarship, Renmin University of China ***2018***
