@@ -12,10 +12,10 @@ author_profile: true
 <style>
   /* Page-level settings */
   .teaching-page{
-    line-height: 1.5;        /* 1.5× spacing */
+    line-height: 2;        /* 1.5× spacing */
     max-width: 1000px;       /* keep content to 1000px */
     margin: 0;               /* keep content flush-left (not centered) */
-    padding-right: 1rem;     /* tiny breathing room on very small screens */
+    padding-right: 2rem;     /* tiny breathing room on very small screens */
   }
 
   /* Subsection headings */
