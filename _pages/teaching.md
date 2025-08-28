@@ -7,12 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Paste this at the top of your teaching.md and replace the sample entries with yours -->
-
 <style>
   /* Page-level settings */
   .teaching-page{
-    line-height: 2;        /* 1.5× spacing */
+    line-height: 2;          /* 2× spacing */
     max-width: 1000px;       /* keep content to 1000px */
     margin: 0;               /* keep content flush-left (not centered) */
     padding-right: 2rem;     /* tiny breathing room on very small screens */
@@ -20,7 +18,7 @@ author_profile: true
 
   /* Subsection headings */
   .teaching-page h2{
-    margin: 1.25rem 0 .5rem;
+    margin: 1.25rem 0.5rem;
     line-height: 2;
   }
 
@@ -32,9 +30,13 @@ author_profile: true
     gap: .25rem 1rem;
     margin: .25rem 0;
   }
-  .twocol .left{ min-width: 0; }          /* Safari: allow wrapping */
+  /* Safari: allow wrapping */
+  .twocol .left{
+    min-width: 0;
+  }          
+  /* keep dates on one line */
   .twocol .right{
-    white-space: nowrap;                   /* keep dates on one line */
+    white-space: nowrap;                   
     text-align: right;
   }
 
