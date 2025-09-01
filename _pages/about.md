@@ -19,4 +19,4 @@ I develop privacy-preserving data-driven algorithms and explore their impact for
 **Methodologies**: Data-driven Optimization, Economics Modelling, Differential Privacy
 
 
-**I will be on the 2025-2026 job market**.
+**I am on the 2025-2026 job market**.
