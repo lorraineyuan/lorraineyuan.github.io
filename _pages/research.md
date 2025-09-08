@@ -34,7 +34,7 @@ author_profile: true
 <div class="research-page">
   <ul class="sublist">
     <li>
-      "Privacy-preserving Data-driven Inventory Management." with Elena Belavina. <em>Major Revision at <i>Management Science</i></em>. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219878" target="_blank">SSRN</a>
+      "Privacy-preserving Data-driven Inventory Management." with Elena Belavina. <em>Major Revision at <i>Management Science</i></em>. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219878" target="_blank">[SSRN]</a>
       <ul class="sublist">
         <li>
           Job Market Paper
