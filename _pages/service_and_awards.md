@@ -44,7 +44,7 @@ author_profile: true
   .block + .block{ margin-top: .75rem; }
 
   /* Mobile: stack columns */
-  @media (max-width: 600px){
+  @media (max-width: 700px){
     .twocol{ grid-template-columns: 1fr; }
     .twocol .right{ text-align: left; }
   }
