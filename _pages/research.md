@@ -26,14 +26,15 @@ author_profile: true
     line-height: 2;
   }
 
-  /* Light spacing between logical blocks */
-  .block + .block{ margin-top: .75rem; }
+  /* Abstract body gets 1.5; summary keeps the page default (2) */
+  .research-page details.abstract { line-height: 1.5; }
+  .research-page details.abstract > summary { line-height: 2; }
 </style>
 
 <div class="research-page">
   <ul class="sublist">
     <li>
-      "Privacy-preserving Data-driven Inventory Management." with Elena Belavina. <em>Major Revision at <i>Management Science</i></em>. <a hef="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219878" target="_blank">SSRN</a>
+      "Privacy-preserving Data-driven Inventory Management." with Elena Belavina. <em>Major Revision at <i>Management Science</i></em>. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219878" target="_blank">SSRN</a>
       <ul class="sublist">
         <li>
           Job Market Paper
@@ -42,7 +43,7 @@ author_profile: true
           Accepted to NYC Privacy Day at Google
         </li>
         <li>
-          <details>
+          <details class="abstract">
             <summary>
               Abstract
             </summary>
