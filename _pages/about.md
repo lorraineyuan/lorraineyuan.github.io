@@ -22,7 +22,8 @@ I develop privacy-preserving data-driven algorithms and explore their impact for
 **I am on the 2025-2026 job market**.
 
 
-# Recent News
+
+## Recent News
 
 I will present my job market paper *"Privacy-preserving Data-driven Inventory Management"* at INFORMS Annual Meeting, Altanta, GA.
 * INFORMS Workshop on Data Science — *October 25 (schedule TBA)*
