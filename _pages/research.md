@@ -5,10 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
 <style>
@@ -18,12 +14,6 @@ author_profile: true
     max-width: 1000px;       /* keep content to 1000px */
     margin: 0;               /* keep content flush-left (not centered) */
     padding-right: 2rem;     /* tiny breathing room on very small screens */
-  }
-
-  /* Subsection headings */
-  .service_and_awards-page h2{
-    margin: 1.25rem 0.5rem;
-    line-height: 2;
   }
 
   /* Abstract body gets 1.5; summary keeps the page default (2) */
