@@ -40,6 +40,9 @@ author_profile: true
           Job Market Paper
         </li>
         <li>
+          Third Place in YinzOR Conference Flash Talk Competition
+        </li>
+        <li>
           Accepted to NYC Privacy Day at Google
         </li>
         <li>
