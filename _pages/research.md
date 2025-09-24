@@ -51,7 +51,7 @@ author_profile: true
             <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/watch?v=JJjOuLfzm5s"
+              src="https://www.youtube-nocookie.com/embed/JJjOuLfzm5s"
               title="YouTube video"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
