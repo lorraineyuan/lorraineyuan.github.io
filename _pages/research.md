@@ -46,11 +46,11 @@ author_profile: true
         <li>
           <details class="abstract">
             <summary>
-              Video showcase
+              10-minute flash talk
             </summary>
             <iframe
-              width="560"
-              height="315"
+              width="528"
+              height="297"
               src="https://www.youtube-nocookie.com/embed/JJjOuLfzm5s"
               title="YouTube video"
               frameborder="0"
