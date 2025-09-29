@@ -16,7 +16,7 @@ I develop privacy-preserving data-driven algorithms and explore their impact for
 ### Research Interests
 
 **Topics**: Data Privacy, Generative AI Adoption, Inventory Management, Mechanism Design
-**Methodologies**: Data-driven Optimization, Economics Modelling, Differential Privacy
+**Methodologies**: Data-driven Optimization, Economic Modelling, Differential Privacy
 
 
 **I am on the 2025-2026 job market**.
