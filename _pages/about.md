@@ -26,6 +26,6 @@ I develop privacy-preserving data-driven algorithms and explore their impact for
 ## Recent News
 
 I will present my job market paper *"Privacy-preserving Data-driven Inventory Management"* at INFORMS Annual Meeting, Altanta, GA.
-* INFORMS Workshop on Data Science — *October 26, 1:00 PM - 2:00 PM, Bldg B Lvl 3 B305*
+* INFORMS Workshop on Data Science — *October 25, 1:00 PM - 2:00 PM, Bldg B Lvl 3 B305*
 * INFORMS Annual Meeting Job Market Showcase Cluster — *October 26, 11:00 AM - 12:15 PM, Bldg A Lvl 3 A311*
 * INFORMS Annual Meeting MSOM Service Operations Cluster— *October 26, 2:45 PM - 4:00 PM, Bldg B Lvl 3 B310*
