@@ -63,10 +63,10 @@ author_profile: true
       </ul>
     </li>
     <li>
-      “Mechanism Design for Generative AI Copilot in a Sequential Production Process.” with Karan Girotra and Elena Belavina. <i>Working Paper</i>.
+      “Mechanism Design for Generative AI Copilot in a Sequential Production Process.” with Karan Girotra and Elena Belavina. <i>Working Paper (draft upon request)</i>.
     </li>
     <li>
-      "Data-driven Decisions in Supply Chains: Contracts, Algorithms, and Efficiency." with Xiaoyue Yan, Karan Girotra and Elena Belavina. <i>Working Paper</i>.
+      "Data-driven Decisions in Supply Chains: Contracts, Algorithms, and Efficiency." with Xiaoyue Yan, Karan Girotra and Elena Belavina. <i>Working Paper (draft upon request)</i>.
     </li>
     <li>
       "Privacy-preserving Collaborative Learning." with Karan Girotra and Elena Belavina. <i>Work In Progress</i>.
